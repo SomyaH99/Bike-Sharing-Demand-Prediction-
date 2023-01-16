@@ -1,7 +1,7 @@
 # Bike-Sharing-Demand-Prediction-
 Problem Statement :
-I tried to predict the demand for rental Bikes in the city of Seoul.
-The goal of the project is to accurately forecast the demand for rental bikes so that we can optimize the distribution and maintenance of bikes throughout the city. I have also explored other insights which can help in better decision-making
+Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
+
 
 
 Approach used:
